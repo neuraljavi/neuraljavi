@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arion5559 / Javier / Conan
 - 👀 I’m interested in Java, Python, C#, PHP and HTML
-- 🌱 I’m currently learning Java, PHP and HTML
+- 🌱 I’m currently learning Java, PHP, CSS, Python, SQL, C#, C++, C and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arion5559@gmail.com
 
