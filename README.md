@@ -32,7 +32,7 @@ I'm a software engineer interested software development, IA development and app 
 ## Languages
 <a href="https://www.python.org/"><img width="9%" src="imgs/python-original.svg" alt="Python"/></a>
 <a href="https://www.java.com/"><img width="9%" src="imgs/java-original.svg" alt="Java"/></a>
-<a href="https://go.dev/"><img width="9%" src="imgs/ferris-rust.png" alt="Rust"/></a>
+<a href="https://www.rust-lang.org"><img width="9%" src="imgs/ferris-rust.png" alt="Rust"/></a>
 <a href="https://docs.microsoft.com/en-gb/dotnet/csharp/"><img width="9%"  src="imgs/csharp-original.svg" alt="CSharp"/></a>
 
 ## Web Development
@@ -54,8 +54,9 @@ I'm a software engineer interested software development, IA development and app 
 <a href="https://code.visualstudio.com/"><img width="9%" src="imgs/vscode-original.svg" alt="Visual Studio Code"/></a>
 <a href="https://www.jetbrains.com/"><img width="9%" src="imgs/jetbrains-original.svg" alt="JetBrains"/></a>
 <a href="https://www.eclipse.org/downloads/"><img width="9%" src="imgs/Eclipse-Luna-Logo.svg" alt="Eclipse"/></a>
-<a href="https://visualstudio.com/"><img width="9%" src="imgs/dataspell.svg" alt="DataSpell"/></a>
-<a href="https://docker.com/"><img width="9%" src="imgs/pycharm.png" alt="PyCharm"/></a>
+<a href="https://visualstudio.com/"><img width="9%" src="imgs/visualstudio-plain.svg" alt="Visual Studio"/></a>
+<a href="https://blog.jetbrains.com/blog/2021/11/30/dataspell-has-been-officially-released-a-brand-new-ide-for-data-scientists-using-python-and-r/"><img width="9%" src="imgs/dataspell.svg" alt="DataSpell"/></a>
+<a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img width="9%" src="imgs/pycharm.png" alt="PyCharm"/></a>
 
 <a href="https://www.office.com/"><img width="9%" src="imgs/Microsoft_Office_logo_(2019–present).svg" alt="Office"/></a>
 <a href="https://git-scm.com/"><img width="9%" src="imgs/git-original.svg" alt="Git"/></a>
