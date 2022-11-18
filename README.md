@@ -73,3 +73,6 @@ I'm a software engineer interested software development, IA development and app 
 <a href="https://www.instagram.com/neuralconan/"><img height="9%" src="imgs/Instagram-badges.svg" alt="Instagram"/></a>
 <a href="https://twitter.com/neuralconan"><img height="9%" src="imgs/TWITTER_badge.svg" alt="Twitter"/></a>
 <a href="https://www.linkedin.com/in/javier-campos-penas/"><img height="9%" src="imgs/LinkedIn_badge.svg" alt="LinkedIn"/></a>
+
+# Acknowledgment
+Thanks for the design to <a href="https://github.com/la-lo-go">la-lo-go (Lalo)</a>, a great programmer and friend, go check him
