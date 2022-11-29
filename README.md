@@ -32,7 +32,7 @@ I'm a software engineer interested software development, IA development and app 
 ## Languages
 <a href="https://www.python.org/"><img width="9%" src="imgs/python-original.svg" alt="Python"/></a>
 <a href="https://www.java.com/"><img width="9%" src="imgs/java-original.svg" alt="Java"/></a>
-<a href="https://www.rust-lang.org"><img width="9%" src="imgs/ferris-rust.png" alt="Rust"/></a>
+<!--<a href="https://www.rust-lang.org"><img width="9%" src="imgs/ferris-rust.png" alt="Rust"/></a>-->
 <a href="https://docs.microsoft.com/en-gb/dotnet/csharp/"><img width="9%"  src="imgs/csharp-original.svg" alt="CSharp"/></a>
 
 ## Web Development
