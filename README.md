@@ -30,10 +30,13 @@ I'm a software engineer interested software development, IA development and app 
 
 # Tech Stack
 ## Languages
-<a href="https://www.python.org/"><img width="9%" src="imgs/python-original.svg" alt="Python"/></a>
-<a href="https://www.java.com/"><img width="9%" src="imgs/java-original.svg" alt="Java"/></a>
-<!--<a href="https://www.rust-lang.org"><img width="9%" src="imgs/ferris-rust.png" alt="Rust"/></a>-->
-<a href="https://docs.microsoft.com/en-gb/dotnet/csharp/"><img width="9%"  src="imgs/csharp-original.svg" alt="CSharp"/></a>
+<a href="https://docs.oracle.com/en/java/" target="_blank"><img width="9%" src="imgs/java-original.svg" alt="Java"/></a>
+<a href="https://docs.python.org/3/" target="_blank"><img width="9%" src="imgs/python-original.svg" alt="Python"/></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width="9%" src="imgs/csharp-original.svg" alt="CSharp"/></a>
+<a href="https://www.rust-lang.org/learn" target="_blank"><img width="9%" src="imgs/rust-original.svg" alt="Rust"/></a>
+<a href="https://dev.mysql.com/doc/" target="_blank"><img width="9%" src="imgs/sql-original.svg" alt="SQL"/></a>
+<a href="https://docs.scala-lang.org/" target="_blank"><img width="9%" src="imgs/scala-original.svg" alt="Scala"/></a>
+
 
 ## Web Development
 <!-- Structure and logic -->
@@ -48,7 +51,6 @@ I'm a software engineer interested software development, IA development and app 
 <a href="https://www.mysql.com/"><img width="9%" src="imgs/mysql-original-wordmark.svg" alt="MySQL"/></a>
 <a href="https://www.postgresql.org/"><img width="9%" src="imgs/postgresql-plain.svg" alt="Postgresql"/></a>
 <img width="9%" src="imgs/microsoftsqlserver-plain-wordmark-ligth.svg#gh-dark-mode-only" alt="Microsoft SQL Server"/>
-<img width="9%" src="imgs/microsoftsqlserver-plain-wordmark-dark.svg#gh-light-mode-only" alt="Microsoft SQL Server"/>
 
 ## Tools & Technologies
 <a href="https://code.visualstudio.com/"><img width="9%" src="imgs/vscode-original.svg" alt="Visual Studio Code"/></a>
