@@ -8,7 +8,7 @@
 <div id="content" align="center">
 
 # Hi! I'm Javi ^^/
-You can also call me Javi, or, as my rugby teammates know me, Conan <br>
+You can also call me neuraljavi, or, as my rugby teammates know me, Conan <br>
 I'm a software engineer interested software development, IA development and app development. Currently I'm studying development of multiplatform apps at IMF Smart Education Capitol.
 
 # My LinkedIn
