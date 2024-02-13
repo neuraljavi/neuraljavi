@@ -9,7 +9,7 @@
 
 # Hi! I'm Javi ^^/
 You can also call me neuraljavi, or, as my rugby teammates know me, Conan <br>
-I'm a software engineer interested software development, IA development and app development. Currently I'm studying development of multiplatform apps at IMF Smart Education Capitol.
+I'm a Data Science student, currently studying the Data Science & Business Analytics master at IMF Smart Education.
 
 # My LinkedIn
 --><a href="https://www.linkedin.com/in/javier-campos-penas/"><img width="9%" src="imgs/linkedin.png" alt="LinkedIn"/></a><--
