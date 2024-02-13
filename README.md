@@ -33,7 +33,7 @@ I'm a Data Science student, currently studying the Data Science & Business Analy
 <a href="https://docs.oracle.com/en/java/" target="_blank"><img width="9%" src="imgs/java-original.svg" alt="Java"/></a>
 <a href="https://docs.python.org/3/" target="_blank"><img width="9%" src="imgs/python-original.svg" alt="Python"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width="9%" src="imgs/csharp-original.svg" alt="CSharp"/></a>
-<a href="https://www.rust-lang.org/learn" target="_blank"><img width="11%" src="imgs/ferris-rust.svg" alt="Rust"/></a>
+<a href="https://www.rust-lang.org/learn" target="_blank"><img width="11%" src="imgs/ferris-rust.png" alt="Rust"/></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img width="9%" src="imgs/sql.svg" alt="SQL"/></a>
 <a href="https://docs.scala-lang.org/" target="_blank"><img width="7%" src="imgs/scala.svg" alt="Scala"/></a>
 
