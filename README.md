@@ -49,7 +49,7 @@ I'm a Data Science student, currently studying the Data Science & Business Analy
 
 ## Databases
 <a href="https://www.mysql.com/"><img width="9%" src="imgs/mysql-original-wordmark.svg" alt="MySQL"/></a>
-<a href="https://www.postgresql.org/"><img width="9%" src="imgs/postgresql.svg" alt="Postgresql"/></a>
+<a href="https://www.postgresql.org/"><img width="9%" src="imgs/Postgresql.svg" alt="Postgresql"/></a>
 <img width="9%" src="imgs/microsoftsqlserver-plain-wordmark-ligth.svg#gh-dark-mode-only" alt="Microsoft SQL Server"/>
 
 ## Tools & Technologies
