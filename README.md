@@ -33,7 +33,7 @@ I'm a Data Science student, currently studying the Data Science & Business Analy
 <a href="https://docs.oracle.com/en/java/" target="_blank"><img width="9%" src="imgs/java-original.svg" alt="Java"/></a>
 <a href="https://docs.python.org/3/" target="_blank"><img width="9%" src="imgs/python-original.svg" alt="Python"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width="9%" src="imgs/csharp-original.svg" alt="CSharp"/></a>
-<a href="https://www.rust-lang.org/learn" target="_blank"><img width="11%" src="imgs/Rust.svg" alt="Rust"/></a>
+<a href="https://www.rust-lang.org/learn" target="_blank"><img width="11%" src="imgs/ferris-rust.svg" alt="Rust"/></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img width="9%" src="imgs/sql.svg" alt="SQL"/></a>
 <a href="https://docs.scala-lang.org/" target="_blank"><img width="7%" src="imgs/scala.svg" alt="Scala"/></a>
 
@@ -59,7 +59,8 @@ I'm a Data Science student, currently studying the Data Science & Business Analy
 <a href="https://visualstudio.com/"><img width="9%" src="imgs/visualstudio-plain.svg" alt="Visual Studio"/></a>
 <a href="https://blog.jetbrains.com/blog/2021/11/30/dataspell-has-been-officially-released-a-brand-new-ide-for-data-scientists-using-python-and-r/"><img width="9%" src="imgs/dataspell.svg" alt="DataSpell"/></a>
 <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img width="9%" src="imgs/pycharm.png" alt="PyCharm"/></a>
-<a href="https://pytorch.org/"><imf width=9%
+<a href="https://pytorch.org/"><imf width="9%" src="imgs/Pytorch.svg" alt="PyTorch"/></a>
+
 
 <a href="https://www.office.com/"><img width="9%" src="imgs/Microsoft_Office_logo_(2019–present).svg" alt="Office"/></a>
 <a href="https://git-scm.com/"><img width="9%" src="imgs/git-original.svg" alt="Git"/></a>
