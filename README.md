@@ -2,7 +2,7 @@
 
 # Hey, I’m Javi (a.k.a. **neuraljavi**) 👋
 
-**Data Engineer @ SCIB Global (Santander CIB)** via SBGM · Madrid (Spain)
+**Data Engineer @ BIP Spain (Business Integration Partners)** · Madrid (Spain)
 Building reliable data systems (Databricks • SQL • Spark • Snowflake) and learning **Theoretical & Computational Physics** at VIU.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Campos%20Pe%C3%B1as-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/javier-campos-penas/)
@@ -15,7 +15,6 @@ Building reliable data systems (Databricks • SQL • Spark • Snowflake) and 
 
 ## 🚀 What I’m doing now
 
-* **Data Engineer** in **Santander Corporate & Investment Banking (SCIB) Global** — Credit Risk Reporting (CREAM/XVA), data quality & controls (DAQA/DRS/TACWA), **Azure Databricks + SQL/Spark**, GitHub, Control‑M, and JSON-based prod flows.
 * **CS/AI side projects**: a **RAG system** (Rust web + Python backend) for private enterprise knowledge; RL experiments (domino/chess); data eng tooling with Docker + Postgres.
 * **Physics degree (VIU)** — aiming at a hybrid **PhD** (theoretical & computational).
 
