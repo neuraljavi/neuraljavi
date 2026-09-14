@@ -16,13 +16,13 @@ Madrid, Spain · ES / EN
 
 I’m a **Data Engineer at BIP Spain**, working on data-platform and analytics challenges. My focus is on turning data into dependable, usable products while keeping systems practical, maintainable, and well understood.
 
-My professional path spans consulting, telecommunications, and financial-services environments. I have worked across **BIP Spain, Telefónica, Santander, Neoris,** and **The Cocktail** — always keeping public descriptions high-level and respecting the confidentiality of each engagement.
+My professional path has taken me through consulting, telecom, and financial services, with experience at **BIP Spain, Telefónica, Santander, Neoris,** and **The Cocktail**.
 
 Alongside work, I have an academic interest in **Theoretical & Computational Physics** at VIU.
 
 ## 🧭 Experience at a glance
 
-| Environment | Public-facing focus |
+| Environment | Focus |
 | --- | --- |
 | **BIP Spain** | Data engineering, data platforms, and analytics. |
 | **Telefónica & Santander** | Experience in large-scale telecommunications and financial-services environments. |
