@@ -3,33 +3,32 @@
 # Javier Campos Penas
 
 ### Data Engineer · Data Platforms · Analytics
-Madrid, Spain · ES / EN
+Madrid, España · ES / EN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Campos%20Penas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-campos-penas/)
 [![GitHub](https://img.shields.io/badge/GitHub-neuraljavi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neuraljavi)
 
 </div>
 
-> I build dependable data products: clear pipelines, useful analytics, and reproducible engineering practices.
+> Convierto datos complejos en productos y herramientas que sirven para algo.
 
-## 👋 About me
+## Sobre mí
 
-I’m a **Data Engineer at BIP Spain**, working on data-platform and analytics challenges. My focus is on turning data into dependable, usable products while keeping systems practical, maintainable, and well understood.
+Soy **Data Engineer en BIP Spain**. Trabajo entre plataformas de datos, analítica y automatización: desde cómo se mueve y se modela la información hasta cómo acaba siendo útil para un equipo.
 
-My professional path has taken me through consulting, telecom, and financial services, with experience at **BIP Spain, Telefónica, Santander, Neoris,** and **The Cocktail**.
+Mi recorrido combina consultoría, telecomunicaciones, banca, cloud e IoT. En paralelo sigo estudiando **Física Teórica y Computacional** en la VIU.
 
-Alongside work, I have an academic interest in **Theoretical & Computational Physics** at VIU.
+## Trayectoria
 
-## 🧭 Experience at a glance
-
-| Environment | Focus |
+| Etapa | En qué he trabajado |
 | --- | --- |
-| **BIP Spain** | Data engineering, data platforms, and analytics. |
-| **Telefónica & Santander** | Experience in large-scale telecommunications and financial-services environments. |
-| **Neoris** | Data and cloud work at the intersection of IoT and Azure. |
-| **The Cocktail** | Early experience in data engineering. |
+| **BIP Spain** · actualidad | Ingeniería de datos, plataformas y analítica. |
+| **Telefónica** | Trabajo de datos en un entorno de telecomunicaciones a gran escala. |
+| **Santander** | Datos y automatización en servicios financieros. |
+| **NEORIS** | Datos IoT y cloud en Azure, en proyectos para Air Liquide. |
+| **The Cocktail** | Primeros proyectos y aprendizaje profesional en data engineering. |
 
-## ⚙️ What I work with
+## Stack habitual
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -39,31 +38,25 @@ Alongside work, I have an academic interest in **Theoretical & Computational Phy
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
 </p>
 
-I also enjoy building with **Java, Scala, C#, Rust, PostgreSQL**, and the tools that make delivery and collaboration smoother: **Git, GitHub Actions, and Power BI**.
+También programo con **Java, Scala, C# y Rust**, y trabajo habitualmente con **PostgreSQL, Git, GitHub Actions** y **Power BI**.
 
-## 🧩 Public work
+## Cosas públicas que he construido
 
-A selection of projects, coursework, and experiments that reflect the range of things I’ve built:
-
-| Area | Highlights |
+| | Proyectos |
 | --- | --- |
-| **Machine learning & data** | [Quasill](https://github.com/neuraljavi/Quasill) — ML-powered web application with Flask, PyTorch, and Azure Cosmos DB · [ML final project](https://github.com/neuraljavi/Pr-cticaFinalML2024) · [Kaggle explorations](https://github.com/neuraljavi/kaggle_competitions) |
-| **Application development** | [JavaWordle](https://github.com/neuraljavi/JavaWordle) · [KeyRingScala](https://github.com/neuraljavi/KeyRingScala) · [Spring CRUD](https://github.com/neuraljavi/CRUD-Spring) |
-| **Programming foundations** | [Python Snake](https://github.com/neuraljavi/PythonSnake) · [Python Pong](https://github.com/neuraljavi/PythonPong) · [Rust Tic-Tac-Toe](https://github.com/neuraljavi/rust_tic_tac_toe) · [C# collections](https://github.com/neuraljavi/Proyecto-Colecciones-DAM) |
+| **ML y datos** | [Quasill](https://github.com/neuraljavi/Quasill) — aplicación web con Flask, PyTorch y Azure Cosmos DB · [Proyecto final de ML](https://github.com/neuraljavi/Pr-cticaFinalML2024) · [Kaggle](https://github.com/neuraljavi/kaggle_competitions) |
+| **Aplicaciones** | [JavaWordle](https://github.com/neuraljavi/JavaWordle) · [KeyRingScala](https://github.com/neuraljavi/KeyRingScala) · [Spring CRUD](https://github.com/neuraljavi/CRUD-Spring) |
+| **Para aprender construyendo** | [Python Snake](https://github.com/neuraljavi/PythonSnake) · [Python Pong](https://github.com/neuraljavi/PythonPong) · [Tic-Tac-Toe en Rust](https://github.com/neuraljavi/rust_tic_tac_toe) |
 
-→ [Browse all repositories](https://github.com/neuraljavi?tab=repositories)
+→ [Ver todos los repositorios](https://github.com/neuraljavi?tab=repositories)
 
-## 🌱 Beyond my day-to-day
+## Fuera del trabajo
 
-I use side projects to explore ideas through code — from applied machine learning and data analysis to small applications and game mechanics. I also make **videos** about the things I learn, build, and find worth sharing along the way.
-
-## 🤝 Let’s connect
-
-The best place to reach me is [LinkedIn](https://www.linkedin.com/in/javier-campos-penas/). Feel free to explore the repositories above or get in touch there.
+Los side projects son mi laboratorio: pruebo ideas de ML y análisis de datos, hago pequeñas aplicaciones y juego con mecánicas de videojuegos. También hago vídeos sobre lo que aprendo y construyo por el camino.
 
 ---
 
-<sub>Building with curiosity · Madrid, Spain</sub>
+[LinkedIn](https://www.linkedin.com/in/javier-campos-penas/) · Madrid
