@@ -3,32 +3,32 @@
 # Javier Campos Penas
 
 ### Data Engineer · Data Platforms · Analytics
-Madrid, España · ES / EN
+Madrid, Spain · ES / EN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Campos%20Penas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-campos-penas/)
 [![GitHub](https://img.shields.io/badge/GitHub-neuraljavi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neuraljavi)
 
 </div>
 
-> Convierto datos complejos en productos y herramientas que sirven para algo.
+> Turning complex data into products and tools people can actually use.
 
-## Sobre mí
+## About me
 
-Soy **Data Engineer en BIP Spain**. Trabajo entre plataformas de datos, analítica y automatización: desde cómo se mueve y se modela la información hasta cómo acaba siendo útil para un equipo.
+I'm a **Data Engineer at BIP Spain**. I work across data platforms, analytics, and automation: from how information moves and is modelled to how it becomes useful to a team.
 
-Mi recorrido combina consultoría, telecomunicaciones, banca, cloud e IoT. En paralelo sigo estudiando **Física Teórica y Computacional** en la VIU.
+My path combines consulting, telecommunications, banking, cloud, and IoT. Alongside work, I'm studying **Theoretical & Computational Physics** at VIU.
 
-## Trayectoria
+## Career
 
-| Etapa | En qué he trabajado |
+| Stage | What I worked on |
 | --- | --- |
-| **BIP Spain** · actualidad | Ingeniería de datos, plataformas y analítica. |
-| **Telefónica** | Trabajo de datos en un entorno de telecomunicaciones a gran escala. |
-| **Santander** | Datos y automatización en servicios financieros. |
-| **NEORIS** | Datos IoT y cloud en Azure, en proyectos para Air Liquide. |
-| **The Cocktail** | Primeros proyectos y aprendizaje profesional en data engineering. |
+| **BIP Spain** · current | Data engineering, platforms, and analytics. |
+| **Telefónica** | Data work in a large-scale telecommunications environment. |
+| **Santander** | Data and automation in financial services. |
+| **NEORIS** | IoT data and cloud on Azure, in projects for Air Liquide. |
+| **The Cocktail** | My first projects and professional learning in data engineering. |
 
-## Stack habitual
+## Usual stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -41,21 +41,21 @@ Mi recorrido combina consultoría, telecomunicaciones, banca, cloud e IoT. En pa
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
 </p>
 
-También programo con **Java, Scala, C# y Rust**, y trabajo habitualmente con **PostgreSQL, Git, GitHub Actions** y **Power BI**.
+I also build with **Java, Scala, C#, and Rust**, and work regularly with **PostgreSQL, Git, GitHub Actions**, and **Power BI**.
 
-## Cosas públicas que he construido
+## Public work
 
-| | Proyectos |
+| | Projects |
 | --- | --- |
-| **ML y datos** | [Quasill](https://github.com/neuraljavi/Quasill) — aplicación web con Flask, PyTorch y Azure Cosmos DB · [Proyecto final de ML](https://github.com/neuraljavi/Pr-cticaFinalML2024) · [Kaggle](https://github.com/neuraljavi/kaggle_competitions) |
-| **Aplicaciones** | [JavaWordle](https://github.com/neuraljavi/JavaWordle) · [KeyRingScala](https://github.com/neuraljavi/KeyRingScala) · [Spring CRUD](https://github.com/neuraljavi/CRUD-Spring) |
-| **Para aprender construyendo** | [Python Snake](https://github.com/neuraljavi/PythonSnake) · [Python Pong](https://github.com/neuraljavi/PythonPong) · [Tic-Tac-Toe en Rust](https://github.com/neuraljavi/rust_tic_tac_toe) |
+| **ML & data** | [Quasill](https://github.com/neuraljavi/Quasill) — web application with Flask, PyTorch, and Azure Cosmos DB · [ML final project](https://github.com/neuraljavi/Pr-cticaFinalML2024) · [Kaggle](https://github.com/neuraljavi/kaggle_competitions) |
+| **Applications** | [JavaWordle](https://github.com/neuraljavi/JavaWordle) · [KeyRingScala](https://github.com/neuraljavi/KeyRingScala) · [Spring CRUD](https://github.com/neuraljavi/CRUD-Spring) |
+| **Learning by building** | [Python Snake](https://github.com/neuraljavi/PythonSnake) · [Python Pong](https://github.com/neuraljavi/PythonPong) · [Rust Tic-Tac-Toe](https://github.com/neuraljavi/rust_tic_tac_toe) |
 
-→ [Ver todos los repositorios](https://github.com/neuraljavi?tab=repositories)
+→ [Browse all repositories](https://github.com/neuraljavi?tab=repositories)
 
-## Fuera del trabajo
+## Outside work
 
-Los side projects son mi laboratorio: pruebo ideas de ML y análisis de datos, hago pequeñas aplicaciones y juego con mecánicas de videojuegos. También hago vídeos sobre lo que aprendo y construyo por el camino.
+Side projects are my lab: I explore ML and data-analysis ideas, build small apps, and play with game mechanics. I also make videos about what I learn and build along the way.
 
 ---
 
