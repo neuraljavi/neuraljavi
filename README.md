@@ -1,11 +1,11 @@
 <div align="center">
 
-# Javier Campos Peñas
+# Javier Campos Penas
 
 ### Data Engineer · Data Platforms · Analytics
 Madrid, Spain · ES / EN
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Campos%20Pe%C3%B1as-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-campos-penas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Campos%20Penas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-campos-penas/)
 [![GitHub](https://img.shields.io/badge/GitHub-neuraljavi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neuraljavi)
 
 </div>
@@ -16,7 +16,18 @@ Madrid, Spain · ES / EN
 
 I’m a **Data Engineer at BIP Spain**, working on data-platform and analytics challenges. My focus is on turning data into dependable, usable products while keeping systems practical, maintainable, and well understood.
 
-My path has also taken me through **Neoris**, connecting IoT and Azure work, and **The Cocktail**, where I started in data engineering. Alongside work, I have an academic interest in **Theoretical & Computational Physics** at VIU.
+My professional path spans consulting, telecommunications, and financial-services environments. I have worked across **BIP Spain, Telefónica, Santander, Neoris,** and **The Cocktail** — always keeping public descriptions high-level and respecting the confidentiality of each engagement.
+
+Alongside work, I have an academic interest in **Theoretical & Computational Physics** at VIU.
+
+## 🧭 Experience at a glance
+
+| Environment | Public-facing focus |
+| --- | --- |
+| **BIP Spain** | Data engineering, data platforms, and analytics. |
+| **Telefónica & Santander** | Experience in large-scale telecommunications and financial-services environments. |
+| **Neoris** | Data and cloud work at the intersection of IoT and Azure. |
+| **The Cocktail** | Early experience in data engineering. |
 
 ## ⚙️ What I work with
 
