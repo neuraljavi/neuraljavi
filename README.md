@@ -1,105 +1,58 @@
 <div align="center">
 
-# Hey, I’m Javi (a.k.a. **neuraljavi**) 👋
+# Javier Campos Peñas
 
-**Data Engineer @ BIP Spain (Business Integration Partners)** · Madrid (Spain)
-Building reliable data systems (Databricks • SQL • Spark • Snowflake) and learning **Theoretical & Computational Physics** at VIU.
+### Data Engineer · Data Platforms · Analytics
+Madrid, Spain · ES / EN
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Campos%20Pe%C3%B1as-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/javier-campos-penas/)
-[![GitHub followers](https://img.shields.io/github/followers/neuraljavi?label=Followers\&style=social)](https://github.com/neuraljavi)
-[![Profile views](https://komarev.com/ghpvc/?username=neuraljavi\&color=blueviolet)](https://github.com/neuraljavi)
-
-</div>
-
----
-
-## 🚀 What I’m doing now
-
-* **CS/AI side projects**: a **RAG system** (Rust web + Python backend) for private enterprise knowledge; RL experiments (domino/chess); data eng tooling with Docker + Postgres.
-* **Physics degree (VIU)** — aiming at a hybrid **PhD** (theoretical & computational).
-
-> Previously at **Neoris** (Air Liquide IoT → Azure) and **The Cocktail** (Data Eng intern). I like clean pipelines, measurable quality, and reproducible environments.
-
----
-
-## 🧰 Tech Stack (select)
-
-### Languages
-
-<p>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-</p>
-
-### Data & Platforms
-
-<p>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="Databricks"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_spark/apache_spark-original.svg" alt="Apache Spark"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" alt="Snowflake"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>
-</p>
-
-### Dev & BI
-
-<p>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello"/>
-</p>
-
----
-
-## 📊 Stats
-
-| GitHub Stats                                                                                                                                                                                                                                                                                                                                                                                 | Top Languages                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=neuraljavi&show_icons=true&hide_title=true&hide=issues&theme=blueberry&hide_border=true&border_radius=6"><img src="https://github-readme-stats.vercel.app/api?username=neuraljavi&show_icons=true&hide_title=true&theme=buefy&hide_border=true&border_radius=6"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=neuraljavi&layout=compact&hide_title=true&theme=blueberry&hide_border=true&border_radius=6&langs_count=8"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuraljavi&layout=compact&hide_title=true&theme=buefy&hide_border=true&border_radius=6&langs_count=8"></picture> |
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neuraljavi&hide_border=true" alt="Streak"/>
-</p>
-
----
-
-## 🧪 Selected interests & projects
-
-* **RAG for enterprises** — Rust (Axum) + Python (FastAPI) + vector DB; private knowledge bases with retrieval + function calling.
-* **Credit Risk data quality** — KPIs, controls, lineage and SLA monitoring for regulatory tables (Basilea III context).
-* **RL toys** — Domino/Chess agents; search + policy improvement; small notebooks for analysis.
-* **Learning roadmap** — Comp. physics (numerical methods, PDEs, Monte Carlo), Spark internals, Lakehouse patterns.
-
-> Pinned work lives in my repos — feel free to browse my GitHub and ping me on LinkedIn.
-
----
-
-## 🤝 How to reach me
-
-* DM me on **LinkedIn**: [Javier Campos Peñas](https://www.linkedin.com/in/javier-campos-penas/)
-* Timezone: Europe/Madrid · Languages: ES / EN
-
----
-
-<div align="center">
-
-*Outside work: Kung Fu (2–4h/week), gym, and an unhealthy love for math & physics books.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Campos%20Pe%C3%B1as-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-campos-penas/)
+[![GitHub](https://img.shields.io/badge/GitHub-neuraljavi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neuraljavi)
 
 </div>
+
+> I build dependable data products: clear pipelines, useful analytics, and reproducible engineering practices.
+
+## 👋 About me
+
+I’m a **Data Engineer at BIP Spain**, working on data-platform and analytics challenges. My focus is on turning data into dependable, usable products while keeping systems practical, maintainable, and well understood.
+
+My path has also taken me through **Neoris**, connecting IoT and Azure work, and **The Cocktail**, where I started in data engineering. Alongside work, I have an academic interest in **Theoretical & Computational Physics** at VIU.
+
+## ⚙️ What I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+</p>
+
+I also enjoy building with **Java, Scala, C#, Rust, PostgreSQL**, and the tools that make delivery and collaboration smoother: **Git, GitHub Actions, and Power BI**.
+
+## 🧩 Public work
+
+A selection of projects, coursework, and experiments that reflect the range of things I’ve built:
+
+| Area | Highlights |
+| --- | --- |
+| **Machine learning & data** | [Quasill](https://github.com/neuraljavi/Quasill) — ML-powered web application with Flask, PyTorch, and Azure Cosmos DB · [ML final project](https://github.com/neuraljavi/Pr-cticaFinalML2024) · [Kaggle explorations](https://github.com/neuraljavi/kaggle_competitions) |
+| **Application development** | [JavaWordle](https://github.com/neuraljavi/JavaWordle) · [KeyRingScala](https://github.com/neuraljavi/KeyRingScala) · [Spring CRUD](https://github.com/neuraljavi/CRUD-Spring) |
+| **Programming foundations** | [Python Snake](https://github.com/neuraljavi/PythonSnake) · [Python Pong](https://github.com/neuraljavi/PythonPong) · [Rust Tic-Tac-Toe](https://github.com/neuraljavi/rust_tic_tac_toe) · [C# collections](https://github.com/neuraljavi/Proyecto-Colecciones-DAM) |
+
+→ [Browse all repositories](https://github.com/neuraljavi?tab=repositories)
+
+## 🌱 Beyond my day-to-day
+
+I use side projects to explore ideas through code — from applied machine learning and data analysis to small applications and game mechanics. I also make **videos** about the things I learn, build, and find worth sharing along the way.
+
+## 🤝 Let’s connect
+
+The best place to reach me is [LinkedIn](https://www.linkedin.com/in/javier-campos-penas/). Feel free to explore the repositories above or get in touch there.
+
+---
+
+<sub>Building with curiosity · Madrid, Spain</sub>
